@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="22" fill="#2d6131"/>
+  <text x="50" y="38" font-family="Playfair Display, serif" font-size="26" font-weight="700" fill="#c89353" text-anchor="middle">VERO</text>
+  <text x="50" y="68" font-family="Playfair Display, serif" font-size="26" font-weight="700" fill="#faf5ec" text-anchor="middle">VITA</text>
+  <circle cx="50" cy="82" r="3" fill="#c89353"/>
+</svg>
